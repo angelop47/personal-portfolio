@@ -288,8 +288,7 @@ section .title::after{
     content: "what i know";
 }
 .skills img{
-    width: 100px;
-    padding: 10px 0px;
+    width: 7vw;
 }
 
 
