@@ -297,6 +297,7 @@ section .title::after{
 .certificate img{
     width: 500px;
     margin-top: 20px;
+    padding: 20px 0px;
 }
 @media (max-width: 550px) {
     .certificate img{
